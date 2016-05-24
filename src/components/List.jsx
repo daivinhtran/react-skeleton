@@ -23,7 +23,7 @@ class List extends React.Component {
         });
 
         return (
-            <ul>listItems</ul>
+            <ul>{listItems}</ul>
         );
     }
 }

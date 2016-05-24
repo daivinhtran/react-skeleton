@@ -19694,7 +19694,7 @@ class List extends React.Component {
         return React.createElement(
             'ul',
             null,
-            'listItems'
+            listItems
         );
     }
 }
